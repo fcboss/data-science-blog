@@ -1,1 +1,1 @@
-Sitemap: https://fcboss.github.io/fastai_template/sitemap.xml
+Sitemap: https://fcboss.github.io/data-science-blog/sitemap.xml
