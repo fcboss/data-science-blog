@@ -5,7 +5,7 @@ description: A minimal example of using markdown with fastpages.
 categories:
   - markdown
 title: An Example Markdown Post
-published: true
+published: false
 ---
 # Example Markdown Post
  
