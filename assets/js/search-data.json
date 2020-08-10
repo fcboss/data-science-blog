@@ -29,9 +29,6 @@
   
 
   
-  
-
-  
 
   
   
@@ -42,13 +39,18 @@
   
 
   
+
+  
+  
+
+  
   
 
   
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://fcboss.github.io/data-science-blog/robots.txt",
