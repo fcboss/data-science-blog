@@ -2,11 +2,13 @@
 toc: true
 layout: post
 description: A minimal example of using markdown with fastpages.
-categories: [markdown]
+categories:
+  - markdown
 title: An Example Markdown Post
+published: true
 ---
 # Example Markdown Post
-
+ 
 ## Basic setup
 
 Jekyll requires blog post files to be named according to the following format:
@@ -100,4 +102,3 @@ key: value
 
 
 [^1]: This is the footnote.
-
